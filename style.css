@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0;}
+.panda-carousel .carousel-item{
+    background-color: #fceae8;
+    border-radius: 0.7em;
+}
+.categories img{
+    width: 120px;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.panda-card{
+    border: 0;
+    border-radius: 0.5em;
+}
