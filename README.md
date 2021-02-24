@@ -15,4 +15,4 @@ This is a E-commerce website.
 [CLICK ME](https://motiullahsajit.github.io/panda-commerce/)
 
 ## Let's take a look!
-![alt text](images/site-ss.jpg)
+![alt text](images/site.jpg)
